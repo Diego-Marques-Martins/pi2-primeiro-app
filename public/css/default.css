@@ -13,3 +13,13 @@ body {
 .carousel-item img {
     margin: auto;
 }
+
+.btn-vermelho {
+        background-color: #ff4d4d;
+        border-color: #ff4d4d;
+}
+
+.btn-vermelho:hover {
+            background-color: #e60000; /* Vermelho mais escuro no hover */
+            border-color: #e60000;
+}

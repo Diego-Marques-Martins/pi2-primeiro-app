@@ -33,9 +33,8 @@
                 <div class="card text-white bg-warning">
                     <img class="card-img-top" src="./img/hamburger-cartoon.png" alt="Card image cap">
                     <div class="card-body">
-                        <p class="card-text">Some quick example text to build on the card title and make up the bulk of
-                        the card's
-                        content.</p>
+                        <p class="card-text">Sabor e qualidade em cada mordida. Nosso hambúrguer artesanal é feito com os melhores ingredientes, oferecendo uma experiência deliciosa e única. Perfeito para qualquer momento!</p>
+                        <a href="cardapio.php" class="btn btn-vermelho">Ver opções</a>
                     </div>
                 </div>
             </div>
@@ -43,9 +42,8 @@
                 <div class="card text-white bg-warning ">
                     <img class="card-img-top" src="./img/hotdog-cartoon.png" alt="Card image cap">
                     <div class="card-body">
-                        <p class="card-text">Some quick example text to build on the card title and make up the bulk of
-                        the card's
-                        content.</p>
+                        <p class="card-text">O clássico hot dog, simples e irresistível. Salsicha suculenta, pão macio e o toque perfeito de condimentos. Uma delícia para qualquer momento!</p>
+                        <a href="pagina-destino.html" class="btn btn-vermelho">Ver opções</a>
                     </div>
                 </div>
             </div>
@@ -53,9 +51,8 @@
                 <div class="card text-white bg-warning ">
                     <img class="card-img-top" src="./img/snacks-cartoon.png" alt="Card image cap">
                      <div class="card-body">
-                        <p class="card-text">Some quick example text to build on the card title and make up the bulk of
-                        the card's
-                        content.</p>
+                        <p class="card-text">Batatas fritas crocantes e douradas, perfeitas para acompanhar seu prato ou como um delicioso lanche. A combinação ideal de sabor e textura!</p>
+                        <a href="pagina-destino.html" class="btn btn-vermelho">Ver opções</a>
                     </div>
                 </div>
             </div>
@@ -63,9 +60,8 @@
                 <div class="card text-white bg-warning ">
                     <img class="card-img-top" src="./img/potato-cartoon.png" alt="Card image cap">
                     <div class="card-body">
-                        <p class="card-text">Some quick example text to build on the card title and make up the bulk of
-                        the card's
-                        content.</p>
+                        <p class="card-text">Batata assada recheada com ingredientes frescos e saborosos. Uma opção perfeita para quem busca algo nutritivo e delicioso em uma refeição completa!</p>
+                        <a href="pagina-destino.html" class="btn btn-vermelho">Ver opções</a>
                     </div>
                 </div>
             </div>
