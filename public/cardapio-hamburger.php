@@ -5,13 +5,11 @@
             <div class="row">
                 <div class="col">
                     <div class="card bg-light">
-                        <div class="card-header bg-danger text-light">
-                        Hamburger Especial
-                        </div>
+                        <div class="card-header bg-danger text-light">Hamburger Especial</div>
                         <div class="card-body">
                             <div class="row">
                                 <div class="col">
-                                    <img src="img/hamburger.png" height="200px">
+                                    <img src="img/hamburger-especial.png" height="200px">
                                 </div>
                                 <div class="col card-text">Delicioso sanduiche com 2 hamburgeres, salada, molho barbecue, bacon e queijo.</div>
                             </div>
@@ -24,13 +22,11 @@
                 </div>
                 <div class="col">
                     <div class="card bg-light">
-                        <div class="card-header bg-danger text-light">
-                        Hamburger da Casal
-                        </div>
+                        <div class="card-header bg-danger text-light">Hamburger da Casa</div>
                         <div class="card-body">
                             <div class="row">
                                 <div class="col">
-                                    <img src="img/hamburger.png" height="200px">
+                                    <img src="img/hamburger-casa.png" height="200px">
                                 </div>
                                 <div class="col card-text">Delicioso sanduiche com 2 hamburgeres, salada, molho barbecue, bacon, frango, picles e queijo.</div>
                             </div>

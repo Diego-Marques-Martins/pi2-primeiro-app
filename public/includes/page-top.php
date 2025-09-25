@@ -27,19 +27,19 @@
                             data-bs-toggle="dropdown" aria-expanded="false">Cardapio</a>
                         <ul class="dropdown-menu" aria-labelledby="menuLink">
                             <li>
-                                <a class="dropdown-item" href="cardapio.php">Hamburger</a>
+                                <a class="dropdown-item" href="cardapio-hamburger.php">Hamburger</a>
                             </li>
                             <li>
-                                <a class="dropdown-item" href="#">Hot Dog</a>
+                                <a class="dropdown-item" href="cardapio-hotdog.php">Hot Dog</a>
                             </li>
                             <li>
-                                <a class="dropdown-item" href="#">Batatas Recheadas</a>
+                                <a class="dropdown-item" href="cardapio-potato.php">Batatas Recheadas</a>
                             </li>
                             <li>
-                                <a class="dropdown-item" href="#">Petiscos</a>
+                                <a class="dropdown-item" href="cardapio-snacks.php">Petiscos</a>
                             </li>
                             <li>
-                                <a class="dropdown-item" href="#">Bebidas</a>
+                                <a class="dropdown-item" href="cardapio-bebidas.php">Bebidas</a>
                             </li>
                         </ul>
                     </li>
